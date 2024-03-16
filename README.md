@@ -1,1 +1,1 @@
-This pycharm file is for Practical 2 to print number 10
+The files below contain the code for Practical 2 for Software Development Fundamentals
